@@ -1,0 +1,12 @@
+{
+  "name": "qana-talta-3dady-2027",
+  "version": "1.0.0",
+  "description": "قناة دفعة تالتة إعدادي 2027 - منصة تعليمية كاملة جاهزة لـ Termux",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
